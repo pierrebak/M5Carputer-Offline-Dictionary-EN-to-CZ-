@@ -6,7 +6,7 @@
 #define DICTIONARY_PATH "/dico_final.csv" // The only data file on the SD card
 
 // Give our imported font a simple name (must match the name in the .h file)
-#define ma_police Police_with_accents
+#define ma_police Fonts_with_accents
 
 // --- GLOBAL VARIABLES ---
 String currentInput = ""; 
