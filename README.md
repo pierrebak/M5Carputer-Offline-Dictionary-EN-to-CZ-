@@ -34,7 +34,7 @@ Software & Files
 
         dico_final.csv (the dictionary data)
 
-        Police_with_accents.h (the custom font)
+        Fonts_with_accents.h (the custom font)
 
         The main .ino sketch file.
 
@@ -46,7 +46,7 @@ Step 1: Arrange the Project Files
 
     Create a new sketch folder in your Arduino projects directory.
 
-    Download the main .ino sketch file and the Police_with_accents.h font file from this repository. Place both files inside this new sketch folder.
+    Download the main .ino sketch file and the Fonts_with_accents.h font file from this repository. Place both files inside this new sketch folder.
 
     Download the dico_final.csv file from this repository. Copy it to the root of your MicroSD card.
 
